@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
 C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
 C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
@@ -26,3 +27,33 @@ C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcore
 C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
 C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
 C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
+=======
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Asus\Desktop\BP201\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Asus\Desktop\BP201\Homework\FirstProject\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
+>>>>>>> 9e88635acd2b2e0e7a894f3b1c588d7c0dc0f4fd
