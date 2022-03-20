@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\BP201\\FirstProject\\FirstProject\\FirstProject.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\BP201\\Homework\\FirstProject\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\BP201\\FirstProject\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\Asus\\Desktop\\BP201\\Homework\\FirstProject\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\BP201\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\BP201\\Homework\\FirstProject\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\BP201\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\BP201\\Homework\\FirstProject\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\BP201\\FirstProject\\FirstProject\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\BP201\\Homework\\FirstProject\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
