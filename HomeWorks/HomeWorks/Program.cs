@@ -7,7 +7,11 @@ namespace HomeWorks
     {
         static void Main(string[] args)
         {
-     
+            Car avto = new Car();
+            Bus avtobus = new Bus();
+
+            
+            
         }
 
         #region C# methods
@@ -49,6 +53,44 @@ namespace HomeWorks
         #endregion
 
         #region String. StringBuilder
+
+        static int myIndexOf(char[] str, char[] substr)
+        {
+            int len = str.Length;
+            int sublen = substr.Length;
+            int count = 0;
+            if (sublen > len)
+            {
+                return -1;
+            }
+            for (int i = 0; i < len - sublen + 1; i++)
+            {
+                for (int j = 0; j < sublen; j++)
+                {
+                    if (str[j + i] == substr[j])
+                    {
+                        count++;
+                        if (count == sublen)
+                        {
+                            return i;
+                        }
+                    }
+                    else
+                    {
+                        count = 0;
+                        break;
+                    }
+                }
+            }
+            return -1;
+        }
+
+
+
+
+
+
+
         static int indexOf(char value)     //Task1.1
         {
             string text = "salamlar";
@@ -167,5 +209,7 @@ namespace HomeWorks
         }
 
         #endregion
+
+       
     }
 }

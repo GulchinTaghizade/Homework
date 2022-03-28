@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\HomeWorks\\HomeWorks\\HomeWorks.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Homework\\HomeWorks\\HomeWorks\\HomeWorks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\HomeWorks\\HomeWorks\\HomeWorks.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Homework\\HomeWorks\\HomeWorks\\HomeWorks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\HomeWorks\\HomeWorks\\HomeWorks.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Homework\\HomeWorks\\HomeWorks\\HomeWorks.csproj",
         "projectName": "HomeWorks",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\HomeWorks\\HomeWorks\\HomeWorks.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Homework\\HomeWorks\\HomeWorks\\HomeWorks.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\HomeWorks\\HomeWorks\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Homework\\HomeWorks\\HomeWorks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
